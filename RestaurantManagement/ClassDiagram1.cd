@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RestaurantManagement.Adres">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAEAQAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Adres.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestaurantManagement.Form1" Collapsed="true">
+    <Position X="4" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wECoAgEAQqoEOJfgosqEAEASSBEAGDGAqAdBigBGgZE=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestaurantManagement.Kok">
+    <Position X="0.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAEAAAAAAAAAAAAAAAACAAABAAAAAA=</HashCode>
+      <FileName>Kok.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestaurantManagement.Ober">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAABAAEAAAAGA=</HashCode>
+      <FileName>Ober.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestaurantManagement.Program" Collapsed="true">
+    <Position X="2.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestaurantManagement.Reservering" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAEAAAABAAAAAACAAAAAAAAACAAAAg=</HashCode>
+      <FileName>Reservering.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RestaurantManagement.Restaurant">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAEAAAEAAAAAEACwABgAEAAiAAAAAAAAAAIAAgAA=</HashCode>
+      <FileName>Restaurant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestaurantManagement.RestaurantKeten">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABABAAAAAAAAAAAABACAAIAAAAQAAAAAAIAAAAU=</HashCode>
+      <FileName>RestaurantKeten.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestaurantManagement.Werknemer">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAEAAAAAAAAAEAAAAJAAAAAgAAQAgAAAAEAAAABA=</HashCode>
+      <FileName>Werknemer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestaurantManagement.Properties.Resources" Collapsed="true">
+    <Position X="5.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestaurantManagement.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
